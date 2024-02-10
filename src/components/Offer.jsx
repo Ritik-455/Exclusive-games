@@ -68,7 +68,7 @@ function Offer() {
                                 <div className="d-flex flex-column ">
                                     <div className="d-flex gap-8 align-items-baseline pt-3">
                                         <img src={doubletick} alt="doubletick" />
-                                        <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8 max-w-387 text-center'>Disponibles Payku, Pix, Depósitos en Euros, Criptomonedas, Cargas manuales</p>
+                                        <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8 max-w-387 text-xl-center'>Disponibles Payku, Pix, Depósitos en Euros, Criptomonedas, Cargas manuales</p>
                                     </div>
                                     <div className="d-flex gap-2 align-items-baseline pt-3">
                                         <img src={doubletick} alt="doubletick" />
@@ -76,13 +76,13 @@ function Offer() {
                                     </div>
                                     <div className="d-flex gap-8 align-items-baseline pt-3">
                                         <img src={doubletick} alt="doubletick" />
-                                        <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8 text-center max-w-387'>Bonos Editables, Happy Hours, Jackpots, Códigos Promocionales Regalo</p>
+                                        <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8 text-xl-center max-w-387'>Bonos Editables, Happy Hours, Jackpots, Códigos Promocionales Regalo</p>
                                     </div>
                                     <div className="d-flex gap-3 align-items-baseline pt-3">
                                         <img src={doubletick} alt="doubletick" />
                                         <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8'>Aplicación para Android y Windows de regalo.</p>
                                     </div>
-                                    <div className="d-flex gap-5 align-items-baseline pt-3">
+                                    <div className="d-flex gap-2 gap-xl-5 align-items-baseline pt-3">
                                         <img src={doubletick} alt="doubletick" />
                                         <p className=' font-inter fw-500 text-16 lh-25 color-white mb-0 opacity-8 text-center max-w-387'>Tiempo de creación 2 a 3 semanas</p>
                                     </div>
